@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "description": "Explorers travel through a wormhole to find a new home for humanity.",
+    "watch_count": 142,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "tagline": "Mankind's next step will be our greatest.",
+    "watch_history": []
+  },
+  {
+    "id": 2,
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "year": 1999,
+    "description": "A hacker discovers that reality is a simulation controlled by machines.",
+    "watch_count": 129,
+    "ratings": {
+      "alex": 3
+    },
+    "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "tagline": "Welcome to the real world.",
+    "watch_history": [
+      {
+        "user": "alex",
+        "time": "2026-10-27T00:19",
+        "rating": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Dune",
+    "genre": "Sci-Fi",
+    "year": 2021,
+    "description": "A young nobleman faces his destiny on a dangerous desert planet.",
+    "watch_count": 116,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "tagline": "It begins.",
+    "watch_history": []
+  },
+  {
+    "id": 4,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "description": "Two prisoners develop an enduring friendship while holding on to hope.",
+    "watch_count": 153,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "watch_history": []
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "year": 1994,
+    "description": "A kind-hearted man experiences extraordinary events throughout American history.",
+    "watch_count": 137,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "tagline": "Life is like a box of chocolates.",
+    "watch_history": []
+  },
+  {
+    "id": 6,
+    "title": "The Pursuit of Happyness",
+    "genre": "Drama",
+    "year": 2006,
+    "description": "A struggling father works tirelessly to build a better life for his son.",
+    "watch_count": 119,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+    "tagline": "Never give up.",
+    "watch_history": []
+  },
+  {
+    "id": 7,
+    "title": "Mad Max: Fury Road",
+    "genre": "Action",
+    "year": 2015,
+    "description": "A drifter joins a rebel warrior in a high-speed escape across a wasteland.",
+    "watch_count": 164,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "tagline": "What a lovely day.",
+    "watch_history": []
+  },
+  {
+    "id": 8,
+    "title": "John Wick",
+    "genre": "Action",
+    "year": 2014,
+    "description": "A retired assassin returns to the criminal underworld seeking vengeance.",
+    "watch_count": 149,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "tagline": "Don't set him off.",
+    "watch_history": []
+  },
+  {
+    "id": 9,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "description": "Batman confronts the Joker, a criminal mastermind threatening Gotham City.",
+    "watch_count": 171,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "tagline": "Why so serious?",
+    "watch_history": []
+  },
+  {
+    "id": 10,
+    "title": "Free Solo",
+    "genre": "Documentary",
+    "year": 2018,
+    "description": "A climber prepares to scale El Capitan without ropes or safety equipment.",
+    "watch_count": 91,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+    "tagline": "Fear. Less.",
+    "watch_history": []
+  },
+  {
+    "id": 11,
+    "title": "My Octopus Teacher",
+    "genre": "Documentary",
+    "year": 2020,
+    "description": "A filmmaker forms an extraordinary bond with an octopus in a kelp forest.",
+    "watch_count": 84,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/original/u96gR99ZUtdmE3bAzASnjZqzioR.jpg",
+    "tagline": "A friendship beneath the waves.",
+    "watch_history": []
+  },
+  {
+    "id": 12,
+    "title": "March of the Penguins",
+    "genre": "Documentary",
+    "year": 2005,
+    "description": "Emperor penguins endure Antarctica's brutal winter to raise their young.",
+    "watch_count": 73,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/original/tF35l7PWDvfGl4vhZHUnnFRtfpX.jpg",
+    "tagline": "The journey of a lifetime.",
+    "watch_history": []
+  },
+  {
+    "id": 13,
+    "title": "The Notebook",
+    "genre": "Romance",
+    "year": 2004,
+    "description": "Two young lovers struggle against social differences and the passage of time.",
+    "watch_count": 133,
+    "ratings": {},
+    "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/lfA4GW15zJd7Xn4pWkFMyMUDOyi.jpg",
+    "tagline": "Behind every great love is a great story.",
+    "watch_history": []
+  },
+  {
+    "id": 14,
+    "title": "La La Land",
+    "genre": "Romance",
+    "year": 2016,
+    "description": "A jazz musician and an aspiring actress fall in love while pursuing their dreams.",
+    "watch_count": 126,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "tagline": "Here's to the fools who dream.",
+    "watch_history": []
+  },
+  {
+    "id": 15,
+    "title": "Pride & Prejudice",
+    "genre": "Romance",
+    "year": 2005,
+    "description": "Elizabeth Bennet and Mr. Darcy navigate pride, class, and unexpected love.",
+    "watch_count": 108,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+    "tagline": "A romance ahead of its time.",
+    "watch_history": []
+  },
+  {
+    "id": 16,
+    "title": "The Grand Budapest Hotel",
+    "genre": "Comedy",
+    "year": 2014,
+    "description": "A hotel concierge and his protégé become embroiled in a stolen painting mystery.",
+    "watch_count": 97,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "tagline": "A perfectly planned adventure.",
+    "watch_history": []
+  },
+  {
+    "id": 17,
+    "title": "Home Alone",
+    "genre": "Comedy",
+    "year": 1990,
+    "description": "A young boy must defend his house from burglars after being left home alone.",
+    "watch_count": 145,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+    "tagline": "A family holiday to remember.",
+    "watch_history": []
+  },
+  {
+    "id": 18,
+    "title": "The Mask",
+    "genre": "Comedy",
+    "year": 1994,
+    "description": "A timid bank clerk gains outrageous powers from a mysterious magical mask.",
+    "watch_count": 112,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/original/zzRIncsQoPPvT5BnwQ9z8L4aNKJ.jpg",
+    "tagline": "From zero to hero.",
+    "watch_history": []
+  },
+  {
+    "id": 19,
+    "title": "Gone Girl",
+    "genre": "Thriller",
+    "year": 2014,
+    "description": "A husband's life unravels when his wife disappears and suspicion turns toward him.",
+    "watch_count": 139,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/original/rrCizjAFXlLqEmipMDceYwf5rbw.jpg",
+    "tagline": "You don't know what you've got till it's gone.",
+    "watch_history": []
+  },
+  {
+    "id": 20,
+    "title": "Shutter Island",
+    "genre": "Thriller",
+    "year": 2010,
+    "description": "Two US marshals investigate a disappearance at a remote psychiatric institution.",
+    "watch_count": 131,
+    "ratings": {},
+    "poster": "https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg",
+    "tagline": "Someone is missing.",
+    "watch_history": []
+  }
+]
